@@ -53,7 +53,7 @@
     "expo": "~51.0.37",
 
     "expo-apple-authentication": "~6.3.0",
-    "expo-application": "~6.0.2",
+    "expo-application": "~6.1.4",
 
     "expo-constants": "~17.0.5",
     "expo-crypto": "~12.8.1",
